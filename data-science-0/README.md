@@ -15,39 +15,3 @@ disponibilizado originalmente pela [Analytics Vidhya](https://www.analyticsvidhy
 publicamente através do [Kaggle](https://www.kaggle.com). O _data set_ traz algumas variáveis relativas à transações comerciais
 realizadas durante a Black Friday em uma determinada loja de varejo. Cada observação é relativa
 a um determinado item comprado por um usuário e um usuário pode ter comprado mais de um item.
-
-## Tópicos
-
-Neste desafios nós vamos explorar:
-
-* Python
-* Pandas
-* Jupyter notebook
-
-## Requisitos
-
-Você precisará de Python 3 e pip. É altamente recomendado utilizar ambientes virtuais
-com o virtualenv e o arquivo `requirements.txt` para instalar os pacotes dependências
-do desafio:
-
-```bash
-$ pip3 install virtualenv
-$ virtualenv venv -p python3
-$ source venv/bin/activate
-$ pip install -r requirements.txt
-```
-
-Windows
-
-```bash
-> pip3 install virtualenv
-> virtualenv ..\venv -p python3
-> ..\venv\Scripts\activate
-> pip install -r requirements.txt
-```
-
-Quando finalizado, você pode desativar o ambiente virtual do virtualenv com:
-
-```bash
-$ deactivate
-```
